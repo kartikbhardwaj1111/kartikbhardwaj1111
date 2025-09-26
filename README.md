@@ -1,4 +1,5 @@
 # 💫 Hi 👋, I'm Kartik Bhardwaj  
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141457544-308400e0-ef11-4a95-ace7-2057d4bf81b0.gif" width="300" />
 **A passionate Full Stack Developer from India, focused on building clean, scalable, and user-centric web apps.**  
 Currently leveling up my craft as a proud Kalvium student. 🚀
 
