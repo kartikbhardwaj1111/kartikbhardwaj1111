@@ -4,7 +4,7 @@
 Currently leveling up my craft as a proud Kalvium student. 🚀
 
 Email Me 👉 ✉️ **kbrupc2020@gmail.com** – For Collaboration, Projects, or just to connect! 😊  
-🌐 **Portfolio:** [kartik-bio](https://portfolio-pxou.vercel.app/)
+🌐 **Portfolio:** [kartik-bio](https://kartik-s-portfolio-ml8n5tr6s-kartik-bhardwajs-projects-ce1937d6.vercel.app/)
 
 - 🔭 **I’m currently working on:** Enhancing my capstone project and refining personal projects
 - 🌱 **I’m currently learning:** TypeScript, AWS (EC2, S3), and system design patterns
