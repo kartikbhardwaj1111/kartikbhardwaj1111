@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **kbrupc2020@gmail.com** – For Collaboration, Projects, o
 🌐 **Portfolio:** [kartik-bio](https://kartik-s-portfolio-ml8n5tr6s-kartik-bhardwajs-projects-ce1937d6.vercel.app/)
 
 - 🔭 **I’m currently working on:** Enhancing my capstone project and refining personal projects
-- 🌱 **I’m currently learning:* TypeScript, AWS (EC2, S3), and system design patterns
+- 🌱 **I’m currently learning:** TypeScript, AWS (EC2, S3), and system design patterns
 - 👯 **I’m looking to collaborate on:** MERN-based web apps, Open Source projects, or developer tooling ideas
 - 🤔 **I’m looking for help with:** Scalable API design and cloud deployments
 - 💬 **Ask me about:** React, Node.js, MongoDB, REST APIs, Git/GitHub
