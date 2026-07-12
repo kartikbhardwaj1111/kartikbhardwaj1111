@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **kbrupc2020@gmail.com** – For Collaboration, Projects, o
 
 - 🔭 **I’m currently working on:** Enhancing my capstone project and refining personal projects
 - 🌱 **I’m currently learning:** TypeScript, AWS (EC2, S3), and system design patterns
-- 👯 **I’m looking to collaborate on:** MERN-based web apps, Open Source projects, or developer tooling ideas
+- 👯 **I’m looking to collaborate on:* MERN-based web apps, Open Source projects, or developer tooling ideas
 - 🤔 **I’m looking for help with:** Scalable API design and cloud deployments
 - 💬 **Ask me about:** React, Node.js, MongoDB, REST APIs, Git/GitHub
 - 📫 **How to reach me:** kbrupc2020@gmail.com
